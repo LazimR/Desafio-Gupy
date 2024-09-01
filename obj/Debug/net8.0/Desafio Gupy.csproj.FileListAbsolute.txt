@@ -1,0 +1,14 @@
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\bin\Debug\net8.0\Desafio Gupy.exe
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\bin\Debug\net8.0\Desafio Gupy.deps.json
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\bin\Debug\net8.0\Desafio Gupy.runtimeconfig.json
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\bin\Debug\net8.0\Desafio Gupy.dll
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\bin\Debug\net8.0\Desafio Gupy.pdb
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\obj\Debug\net8.0\Desafio Gupy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\obj\Debug\net8.0\Desafio Gupy.AssemblyInfoInputs.cache
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\obj\Debug\net8.0\Desafio Gupy.AssemblyInfo.cs
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\obj\Debug\net8.0\Desafio Gupy.csproj.CoreCompileInputs.cache
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\obj\Debug\net8.0\Desafio Gupy.dll
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\obj\Debug\net8.0\refint\Desafio Gupy.dll
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\obj\Debug\net8.0\Desafio Gupy.pdb
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\obj\Debug\net8.0\Desafio Gupy.genruntimeconfig.cache
+C:\Users\LazimR\Documents\GitHub\Desafio Gupy\obj\Debug\net8.0\ref\Desafio Gupy.dll
